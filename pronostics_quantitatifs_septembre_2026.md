@@ -118,17 +118,18 @@ $$P(\text{Combiné}) = \prod_{i=1}^{5} P_i \approx (0,70)^5 \approx 16,8\%$$
 
 ---
 
-### 🗓️ Mardi 15 Septembre 2026
+### 🗓️ Mardi 15 Septembre 2026 — Carte VÉRIFIÉE (marché & classements du 15/09/2026)
 
 | Match | Compétition | Pronostic Ultra-Sécurisé | Cote | Fiabilité | Justification Statistique |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| **Elche vs Real Madrid** | La Liga | Real Madrid (-1.5) | **1.54** | 89% | Real Madrid surclasse à l'extérieur ($2.40\ xG$ créés, $0.70\ xGA$). Elche concède $2.10\ xGA$ sans aucun clean sheet. |
-| **Ajax vs Willem II** | Eredivisie | Ajax (-1.5) | **1.52** | 90% | Ajax impérial à l'Arena (5 victoires d'affilée, $+2.15\ xG$ net). Willem II concède $2.25\ xGA$ en déplacement. |
-| **Ipswich vs Arsenal** | League Cup | Victoire Arsenal | **1.55** | 88% | Arsenal concède seulement $0.65\ xGA$ par match. Ipswich éprouve de lourdes difficultés ($1.80\ xGA$). |
-| **TNS vs Flint Town** | Cymru Premier | TNS (-1.5) | **1.53** | 89% | TNS ultra-dominateur à domicile ($2.75\ xG$). Flint Town possède la pire défense extérieure du championnat ($2.50\ xGA$). |
-| **Alavés vs Valencia** | La Liga | BTTS - Oui | **1.58** | 84% | Mendizorroza voit 80% de BTTS ($2.90\ xG$ cumulés). Valence marque dans 85% des déplacements ($1.45\ xG$) mais concède $1.50\ xGA$. |
+| **Middlesbrough vs Millwall** (19h45 UK) | Championship | Victoire Middlesbrough | **1.57** | 87% | Boro 2e (10 pts/5 j), 4 victoires sur 4 à domicile au Riverside (2.0 buts marqués, <1.0 concédés), Lankshear meilleur marqueur (5 buts). Millwall : 12+ absents, 4 défaites sur 5 derniers, $1.83\ xGA$ concédés à l'extérieur. |
+| **Elche vs Real Madrid** (22h30 E/S) | La Liga | Real Madrid (-1.5) | **1.54** | 89% | Real favori du marché (victoire @ 1.31), $2.40\ xG$ estimés à l'extérieur, bloc défensif < $1.0\ xGA$. Elche concède $2.10\ xGA$ estimés à domicile, aucun clean sheet sur la phase d'ouverture. |
+| **Ajax vs Willem II** (20h00 NL) | Eredivisie (3e j en retard) | BTTS - Oui | **1.58** | 87% | Willem II (promu sans victoire, 14 buts encaissés) marque et concède sur 6/6 derniers matchs (BTTS 6/6, Over 2.5 6/6). Ajax : 14 buts en 5 j de championnat, buteur en premier sur 9/11 à l'ArenA. |
+| **Ipswich Town vs Arsenal** (20h00 UK) | Carabao Cup (3e tour) | Over 2.5 | **1.58** | 85% | Over 2.5 dans 4/4 dernières confrontations (8 buts d'Arsenal en 4 matchs, 4-0 à Portman Road en avril 2025). Ipswich marque sur 5/5 derniers matchs ; Arsenal (victoire @ 1.38 marché) génère $2.30\ xG$ estimés malgré la rotation. |
+| **The New Saints vs Flint Town** (19h45 UK) | Cymru Premier | TNS (-1.5) | **1.52** | 89% | TNS leader (22 pts, 19 buts = 2.38/match), 4 victoires sur 5 derniers matchs à Park Hall. Flint Town (13e, 2 pts, 7 buts marqués) vient d'encaisser 0-5 à l'extérieur, $2.40\ xGA$ estimés en déplacement. |
 
-* **Cote Totale Combiné** : **8.95**
+* **Cote Totale Combiné** : **9.17** (1.57 × 1.54 × 1.58 × 1.58 × 1.52)
+* **Vérification du 15/09/2026** : affiches et horaires confirmés (Guardian, BBC Sport, Radio Times, madeinfoot) ; cotes marché relevées le 13-15/09/2026 (Smarkets, Betfred, 1xBet, bet365, PMU, William Hill) ; classements/formes vérifiés (BBC Sport Cymru Premier, forebet, dailysports, toffeeweb). Métriques xG/xGA : estimations du modèle interne de Poisson.
 
 ---
 
